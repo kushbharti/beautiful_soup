@@ -56,7 +56,7 @@ python web_scraping_gui.py
 
 <h2>🖥 Usage Guide</h2>
 <ol>
-  <li>Enter the website URL (e.g., https://books.toscrape.com)</li>
+  <li>Enter the website URL (e.g., https://example.com)</li>
   <li>Enter the HTML tag you want to extract (e.g., <code>p</code>, <code>h1</code>, <code>a</code>)</li>
   <li>Click <strong>“🚀 Start Scraping”</strong></li>
   <li>View and copy extracted text from the results area</li>
