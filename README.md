@@ -24,6 +24,12 @@ Designed with a sleek, modern interface, it helps users visualize and extract te
   <li><strong>Styling:</strong> Custom ttk themes and layout design</li>
 </ul>
 
+<img width="1084" height="806" alt="Screenshot 2025-10-21 194520" src="https://github.com/user-attachments/assets/8ea420a8-fdb7-4c80-afe7-34b342b99273" />
+
+
+<img width="1096" height="813" alt="Screenshot 2025-10-21 194610" src="https://github.com/user-attachments/assets/b4d67c0b-5270-4656-b42a-dbab0120d6de" />
+
+
 <h2>📁 Project Structure</h2>
 <pre>
 web_scraper_pro/
