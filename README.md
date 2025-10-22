@@ -46,8 +46,8 @@ web_scraper_pro/
 
 <pre>
 # Clone the repository
-git clone https://github.com/your-username/web-scraper-pro.git
-cd web-scraper-pro
+git clone https://github.com/your-username/scrapper__.git
+
 
 # Create virtual environment
 python -m venv env
